@@ -1,0 +1,27 @@
+.divimg1{
+        text-align:center;
+        margin-left: auto;
+         margin-right: auto;
+
+
+    }
+    .divtxt1{
+         padding:118px;
+
+    }
+
+    .txt1{
+        text-align:center;
+          font-size:2vw;
+    }
+     .txt2{
+        text-align:center;
+          font-size:1.5vw;
+    }
+    .img{
+       margin-top:10%;
+       margin-bottom:10%;
+
+       width: 90%;
+       hight:auto;
+    }
