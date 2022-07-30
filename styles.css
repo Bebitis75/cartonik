@@ -1,3 +1,11 @@
+#number1{
+  background-color: #e7eaf6;
+}
+
+
+
+
+
 .divimg1{
         text-align:center;
         margin-left: auto;
@@ -12,11 +20,11 @@
 
     .txt1{
         text-align:center;
-          font-size:2vw;
+          font-size:50px;
     }
      .txt2{
         text-align:center;
-          font-size:1.5vw;
+          font-size:30px;
     }
     .img{
        margin-top:10%;
