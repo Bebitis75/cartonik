@@ -10,6 +10,10 @@
         text-align:center;
         margin-left: auto;
          margin-right: auto;
+         height:auto;
+         width:90%;
+
+
 
 
     }
@@ -33,3 +37,18 @@
        width: 90%;
        hight:auto;
     }
+
+.cards{
+  text-align:center;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card{
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+
+}
