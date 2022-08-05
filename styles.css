@@ -1,5 +1,5 @@
 #number1{
-  background-color: #e7eaf6;
+  background-color: white;
 }
 
 
@@ -24,11 +24,12 @@
 
     .txt1{
         text-align:center;
-          font-size:50px;
+        font-family: 'Alumni Sans Inline One', cursive;
+          font-size:2vw;
     }
      .txt2{
         text-align:center;
-          font-size:30px;
+          font-size:1.5vw;
     }
     .img{
        margin-top:10%;
